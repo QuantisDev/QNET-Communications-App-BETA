@@ -1,0 +1,17 @@
+.DS_Store
+/captures
+.externalNativeBuild
+/build/
+/.idea/
+/app/app.iml
+/gradlew
+/app/build/
+/local.properties
+/android-refimpl-app.iml
+/gradle/
+/.gradle/
+/gradlew.bat
+/native-audio-jni/build/
+/jnilib/jnilib.iml
+/native-audio-jni/native-audio-jni.iml
+/jnilib/build/
